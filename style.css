@@ -1,0 +1,20 @@
+.container-3 {
+    border: solid black;
+    margin: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.flex-box-rps, #resetButton {
+    border: solid black;
+    margin: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#resetButton {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-around;
+}
